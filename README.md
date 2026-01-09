@@ -31,7 +31,6 @@ SmartVision-AI/ │── main.py                 # Main detection script │─
 ---
 
 ## 📸 Demo
-## 📸 Demo
 
 Below is a sample output from the real-time object detection system:
 
